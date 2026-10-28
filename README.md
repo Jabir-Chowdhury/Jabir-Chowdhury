@@ -1,7 +1,7 @@
 
 ![Jabir Chowdhury - AI Automation Engineer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=200&section=header&text=Jabir%20Chowdhury&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Automation%20Engineer&descAlignY=58&descSize=18)
 
-# 👋 Hi, I'm Jabir Chowdhury
+## 👋 Hi, I'm Jabir Chowdhury
 
 ### 💻 Aspiring AI Automation Engineer
 
