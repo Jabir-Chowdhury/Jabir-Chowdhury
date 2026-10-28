@@ -46,8 +46,8 @@ My personal website showcasing my background and development journey.
 *Learning consistently. Building practically. Automating intelligently.* 🚀
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jabir-Chowdhury&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jabir-Chowdhury&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabir-Chowdhury&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabir-Chowdhury&layout=compact&theme=github_dark&hide_border=true)
