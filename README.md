@@ -12,7 +12,7 @@ Mathematics graduate building a strong foundation in web development, programmin
 - 🎯 Working toward full-stack development and AI automation
 - 🚀 I enjoy learning by building practical projects
 
-### 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -20,11 +20,11 @@ Mathematics graduate building a strong foundation in web development, programmin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🗺️ My Learning Roadmap
+## 🗺️ Learning Roadmap
 
 `JavaScript` → `React` → `Node.js` → `APIs` → `PostgreSQL` → `Python` → `AI Automation`
 
-### 🚀 Featured Project
+## 🚀 Featured Project
 
 **Personal Portfolio Website**
 
